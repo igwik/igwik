@@ -1,7 +1,6 @@
 ## Hi there 👋
-
-<!--
-**igwik/igwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Страница создана  25.04.2026
+<!--**igwik/igwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
