@@ -1,7 +1,7 @@
 ## Hi there 👋
 Страница создана  25.04.2026
 <!--**igwik/igwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.11.0/AmneziaVPN_4.8.11.0_macos.zip
+(https://github.com/amnezia-vpn/amnezia-client/releases/download/4.8.11.0/AmneziaVPN_4.8.11.0_macos.zip)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
